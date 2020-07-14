@@ -6,7 +6,7 @@ Interface com Jogos na linguagem 'C', Trabalho realizado na disciplina de Algori
 
 ## 💻 > REPOSITÓRIO:
 
-Este repositório foi criado com o intuito de armazenar o trabalho realizado por Cassiano Henrique Aparecido Rodrigues ( @kszinhu ) e Joao Pedro Vieira Rodrigues ( @Jotinha08 ).
+Este repositório foi criado com o intuito de armazenar o trabalho realizado por **Cassiano Henrique Aparecido Rodrigues** ([@kszinhu](https://github.com/kszinhu)) e **Joao Pedro Vieira Rodrigues** ([@Jotinha08](https://github.com/Jotinha08)).
 
 ## ⚠ > SOBRE:
 > Portugues
