@@ -1,8 +1,17 @@
 # JOGOS EM C
 Interface com Jogos na linguagem 'C', Trabalho realizado na disciplina de Algoritmos I oferecido pela UNESP - Bauru
 <h4 align="center"> 
-	  > PONG < 
+	  <- PONG -> 
 </h4>
+	<p align="center"><img src="https://i.imgur.com/p3gwuB1.png" width="275px"/></p>
+<!-- h4 align="center"> 
+	  > JOGO DA COBRINHA < 
+</h4>
+	<p align="center"><img src="https://i.imgur.com/p3gwuB1.png" width="275px"/></p>
+h4 align="center"> 
+	  > LABIRINTO < 
+<!-- </h4>
+	<p align="center"><img src="https://i.imgur.com/p3gwuB1.png" width="275px"/></p>-->
 
 ## 💻 > REPOSITÓRIO:
 
