@@ -3,7 +3,7 @@ Interface com Jogos na linguagem 'C', Trabalho realizado na disciplina de Algori
 <h4 align="center"> 
 	  <- PONG -> 
 </h4>
-	<p align="center"><img src="https://i.imgur.com/KwzDYp8.png" width="275px"/></p>
+	<p align="center"><img src="https://i.imgur.com/YIEI8yX.png" width="275px"/></p>
 <!-- h4 align="center"> 
 	  > JOGO DA COBRINHA < 
 </h4>
